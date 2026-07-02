@@ -8,7 +8,7 @@
   "photo": "assets/img/head-shot.jpeg",
   "contact": {
     "address": ["202 Arts & Sciences, UAS", "414 E. Clark Street, Vermillion, SD 57069", "United States"],
-    "email": "longwei.wang@usd.edu"
+    "emailEncoded": "bG9uZ3dlaS53YW5nQHVzZC5lZHU="
   },
   "social": [
     { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=nRGDT_sAAAAJ&hl=en" },

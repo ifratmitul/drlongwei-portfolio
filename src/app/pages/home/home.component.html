@@ -20,9 +20,11 @@
           </ul>
 
           <div class="intro__contact">
-            <a [href]="'mailto:' + profile.contact.email">{{ profile.contact.email }}</a>
-            @if (profile.contact.phone) {
-              <span>{{ profile.contact.phone }}</span>
+            <a [href]="'mailto:' + (profile.contact.emailEncoded | deobfuscate)">
+              {{ profile.contact.emailEncoded | deobfuscate }}
+            </a>
+            @if (profile.contact.phoneEncoded) {
+              <span>{{ profile.contact.phoneEncoded | deobfuscate }}</span>
             }
           </div>
 
