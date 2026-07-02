@@ -6,7 +6,7 @@
     "startDate": "January 2025",
     "photo": "assets/img/Student Headshots-526.jpg",
     "bio": "Working on Explainable AI",
-    "email": "ifratikhtear.uddin@coyotes.usd.edu",
+    "emailEncoded": "aWZyYXRpa2h0ZWFyLnVkZGluQGNveW90ZXMudXNkLmVkdQ==",
     "website": "https://ifratmitul.github.io/ifrat/"
   },
   {
@@ -16,7 +16,7 @@
     "startDate": "January 2026",
     "photo": "assets/img/avatar.svg",
     "bio": "Researching joint communication and sensing waveforms.",
-    "email": "jwu@example.edu"
+    "emailEncoded": "and1QGV4YW1wbGUuZWR1"
   },
   {
     "name": "Example 2",
@@ -25,7 +25,7 @@
     "startDate": "January 2026",
     "photo": "assets/img/avatar.svg",
     "bio": "Building testbeds for reconfigurable intelligent surfaces.",
-    "email": "acalvet@example.edu"
+    "emailEncoded": "YWNhbHZldEBleGFtcGxlLmVkdQ=="
   },
   {
     "name": "Example 1",

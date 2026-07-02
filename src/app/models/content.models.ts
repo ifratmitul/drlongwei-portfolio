@@ -5,8 +5,10 @@
 
 export interface ContactInfo {
   address: string[];
-  email: string;
-  phone?: string;
+  /** Base64-encoded email address (decoded at runtime to deter scrapers). */
+  emailEncoded: string;
+  /** Base64-encoded phone number. */
+  phoneEncoded?: string;
 }
 
 export interface SocialLink {
@@ -57,7 +59,8 @@ export interface Member {
   startDate?: string;
   photo?: string;
   bio?: string;
-  email?: string;
+  /** Base64-encoded email address (decoded at runtime to deter scrapers). */
+  emailEncoded?: string;
   website?: string;
 }
 

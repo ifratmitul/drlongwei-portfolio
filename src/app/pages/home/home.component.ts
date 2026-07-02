@@ -3,11 +3,12 @@ import { AsyncPipe, NgOptimizedImage } from '@angular/common';
 
 import { ContentService } from '../../services/content.service';
 import { SectionComponent } from '../../shared/section/section.component';
+import { DeobfuscatePipe } from '../../shared/pipes/deobfuscate.pipe';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [AsyncPipe, NgOptimizedImage, SectionComponent],
+  imports: [AsyncPipe, NgOptimizedImage, SectionComponent, DeobfuscatePipe],
   changeDetection: ChangeDetectionStrategy.OnPush,
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss',
