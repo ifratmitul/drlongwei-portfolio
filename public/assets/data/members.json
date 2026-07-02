@@ -4,13 +4,13 @@
     "role": "Ph.D. Student, Computer Science",
     "status": "current",
     "startDate": "January 2025",
-    "photo": "assets/img/avatar.svg",
+    "photo": "assets/img/Student Headshots-526.jpg",
     "bio": "Working on Explainable AI",
     "email": "ifratikhtear.uddin@coyotes.usd.edu",
     "website": "https://ifratmitul.github.io/ifrat/"
   },
   {
-    "name": "Junjie Wu",
+    "name": "Example 1",
     "role": "Ph.D. Student, Computer Engineering",
     "status": "current",
     "startDate": "January 2026",
@@ -19,7 +19,7 @@
     "email": "jwu@example.edu"
   },
   {
-    "name": "Abel Calvet",
+    "name": "Example 2",
     "role": "M.S. Student, Computer Science",
     "status": "current",
     "startDate": "January 2026",
@@ -28,7 +28,7 @@
     "email": "acalvet@example.edu"
   },
   {
-    "name": "Erbey Uribe",
+    "name": "Example 1",
     "role": "Graduate Researcher",
     "status": "former",
     "bio": "Developed a Raspberry Pi beam adaptation system."

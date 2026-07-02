@@ -1,42 +1,121 @@
 [
   {
-    "authors": "L. Wang, J. Sigman, and A. Smith",
-    "title": "Learning-Based Beam Management for Terahertz Communications",
-    "venue": "IEEE Transactions on Wireless Communications",
-    "year": 2025,
-    "type": "journal",
-    "links": [{ "label": "PDF", "url": "#" }, { "label": "DOI", "url": "#" }]
+    "authors": "C. Wall, L. Wang, R. Rizk, and K. C. Santosh",
+    "title": "Winsor-CAM: Human-Tunable Visual Explanations from Deep Networks via Layer-Wise Winsorization",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+    "year": 2026,
+    "type": "journal"
   },
   {
-    "authors": "J. Wu, L. Wang, and R. Brown",
-    "title": "Joint Communication and Sensing with Reconfigurable Intelligent Surfaces",
-    "venue": "IEEE International Conference on Communications (ICC)",
-    "year": 2024,
-    "type": "conference",
-    "links": [{ "label": "PDF", "url": "#" }]
+    "authors": "L. Wang, I. I. Uddin, and K. C. Santosh",
+    "title": "Expert-Guided Explainable Few-Shot Learning with Active Sample Selection for Medical Image Analysis",
+    "venue": "IEEE Journal of Biomedical and Health Informatics",
+    "year": 2026,
+    "type": "journal"
   },
   {
-    "authors": "L. Wang and K. Tribble",
-    "title": "Edge-Assisted Inference for Low-Latency Wireless Networks",
-    "venue": "IEEE Journal on Selected Areas in Communications",
-    "year": 2024,
-    "type": "journal",
-    "links": [{ "label": "PDF", "url": "#" }, { "label": "Code", "url": "#" }]
+    "authors": "S. Peng, R. Wang, Y. Liang, and L. Wang",
+    "title": "MBD-Planner: A Real-Time Obstacle Avoidance Framework for UAVs via Feature-Domain Motion Blur Decoupling",
+    "venue": "IEEE Robotics and Automation Letters",
+    "year": 2026,
+    "type": "journal"
   },
   {
-    "authors": "A. Calvet, L. Wang, and M. Davis",
-    "title": "A Testbed for mmWave Channel Measurements in Indoor Environments",
-    "venue": "IEEE GLOBECOM",
-    "year": 2023,
-    "type": "conference",
-    "links": [{ "label": "PDF", "url": "#" }]
+    "authors": "C. Zhang, X. Luo, Z. Zhang, Y. Zhu, J. Qiang, and L. Wang",
+    "title": "Acting Flatterers via LLMs Sycophancy: Combating Clickbait with LLMs Opposing-Stance Reasoning",
+    "venue": "Proceedings of the ACM Web Conference (WWW)",
+    "year": 2026,
+    "type": "conference"
   },
   {
-    "authors": "L. Wang, V. Annabhemoju, and P. Lee",
-    "title": "Deep Reinforcement Learning for Dynamic Spectrum Access",
+    "authors": "N. R. Rasmussen, R. Rizk, L. Wang, A. Singh, and K. C. Santosh",
+    "title": "Channel-Selected Stratified Nested Cross-Validation for Clinically Relevant EEG-Based Parkinson's Disease Detection",
+    "venue": "IEEE Conference on Artificial Intelligence (CAI)",
+    "year": 2026,
+    "type": "conference"
+  },
+  {
+    "authors": "D. M. Mei, K. Acharya, C. M. Adhikari, M. Adhikari, S. Aryal, B. V. Benson, et al.",
+    "title": "AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation",
     "venue": "arXiv preprint",
-    "year": 2023,
-    "type": "preprint",
-    "links": [{ "label": "arXiv", "url": "#" }]
+    "year": 2026,
+    "type": "preprint"
+  },
+  {
+    "authors": "L. Wang, I. I. Uddin, C. Zhang, X. Qin, and Y. Zhou",
+    "title": "Bridging Symmetry and Robustness: On the Role of Equivariance in Enhancing Adversarial Robustness",
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2025,
+    "type": "conference"
+  },
+  {
+    "authors": "L. Wang, M. N. Nayyem, A. Al Rakin, K. C. Santosh, C. Zhang, and Y. Zhou",
+    "title": "Explainability-Guided Defense: Attribution-Aware Model Refinement Against Adversarial Data Attacks",
+    "venue": "IEEE International Conference on Data Mining (ICDM)",
+    "year": 2025,
+    "type": "conference"
+  },
+  {
+    "authors": "R. N. Ranabhat, L. Wang, A. K. Patel, and K. C. Santosh",
+    "title": "Promoting Shape Bias in CNNs: Frequency-Based and Contrastive Regularization for Corruption Robustness",
+    "venue": "International Conference on Intelligent Systems and Pattern Recognition (ISPR)",
+    "year": 2025,
+    "type": "conference"
+  },
+  {
+    "authors": "I. I. Uddin, L. Wang, and K. C. Santosh",
+    "title": "Expert-Guided Explainable Few-Shot Learning for Medical Image Diagnosis",
+    "venue": "MICCAI Workshop on Data Engineering in Medical Imaging",
+    "year": 2025,
+    "type": "conference"
+  },
+  {
+    "authors": "R. N. Ranabhat, L. Wang, X. Qin, Y. Zhou, and K. C. Santosh",
+    "title": "Multi-Scale Unrectified Push-Pull with Channel Attention for Enhanced Corruption Robustness",
+    "venue": "Proceedings of the AAAI Symposium Series",
+    "year": 2025,
+    "type": "conference"
+  },
+  {
+    "authors": "L. Wang, I. I. Uddin, X. Qin, Y. Zhou, and K. C. Santosh",
+    "title": "Explainability-Driven Defense: Grad-CAM-Guided Model Refinement Against Adversarial Threats",
+    "venue": "Proceedings of the AAAI Symposium Series",
+    "year": 2025,
+    "type": "conference"
+  },
+  {
+    "authors": "K. C. Santosh, R. Rizk, and L. Wang",
+    "title": "Toward Carbon-Neutral Human AI: Rethinking Data, Computation, and Learning Paradigms for Sustainable Intelligence",
+    "venue": "IEEE International Conference on Cognitive Machine Intelligence (CogMI)",
+    "year": 2025,
+    "type": "conference"
+  },
+  {
+    "authors": "P. Khadka, R. Rizk, L. Wang, and K. C. Santosh",
+    "title": "CoSwin: Convolution Enhanced Hierarchical Shifted Window Attention for Small-Scale Vision",
+    "venue": "arXiv preprint",
+    "year": 2025,
+    "type": "preprint"
+  },
+  {
+    "authors": "N. R. Rasmussen, R. Rizk, L. Wang, and K. C. Santosh",
+    "title": "Ecologically Valid Benchmarking and Adaptive Attention: Scalable Marine Bioacoustic Monitoring",
+    "venue": "arXiv preprint",
+    "year": 2025,
+    "type": "preprint"
+  },
+  {
+    "authors": "L. Wang, A. Ghimire, K. C. Santosh, Z. Zhang, and X. Li",
+    "title": "Enhanced Robustness by Symmetry Enforcement",
+    "venue": "IEEE Conference on Artificial Intelligence (CAI)",
+    "year": 2024,
+    "type": "conference"
+  },
+  {
+    "authors": "S. Chataut, A. Ghimire, A. Thakur, L. Wang, and K. C. Santosh",
+    "title": "Shape-Aware Thoracic Edge Map Chest X-Ray Representation for Pulmonary Abnormality Screening",
+    "venue": "International Conference on Data Analytics & Learning",
+    "year": 2024,
+    "type": "conference"
   }
 ]
