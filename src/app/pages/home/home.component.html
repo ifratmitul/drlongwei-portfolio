@@ -53,7 +53,7 @@
       </div>
     </app-section>
 
-    <app-section heading="Education" anchor="education">
+    <!-- <app-section heading="Education" anchor="education">
       <ul class="edu">
         @for (item of home.education; track item.degree) {
           <li>
@@ -63,11 +63,16 @@
           </li>
         }
       </ul>
+    </app-section> -->
+
+
+    <app-section heading="Openings" anchor="openings">
+      @for (para of home.openings; track $index) {
+        <p class="opening">{{ para }}</p>
+      }
     </app-section>
 
-
-
-    <app-section heading="Awards & Honors" anchor="awards">
+    <app-section heading="Spotlight, Awards & Honors" anchor="awards">
       <ul class="awards">
         @for (award of home.awards; track $index) {
           <li>
@@ -76,12 +81,6 @@
           </li>
         }
       </ul>
-    </app-section>
-
-    <app-section heading="Openings" anchor="openings">
-      @for (para of home.openings; track $index) {
-        <p>{{ para }}</p>
-      }
     </app-section>
   </div>
 }

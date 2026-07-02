@@ -35,6 +35,7 @@ export class SidebarComponent {
     {
       label: 'Research',
       links: [
+        { label: 'Vision', path: '/research-vision' },
         { label: 'Projects', path: '/projects' },
         { label: 'Publications', path: '/publications' },
       ],

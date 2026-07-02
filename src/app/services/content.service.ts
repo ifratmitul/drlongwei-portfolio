@@ -56,4 +56,8 @@ export class ContentService {
   getCourses(): Observable<Course[]> {
     return this.get<Course[]>('courses.json');
   }
+
+  getResearchVision(): Observable<string[]> {
+    return this.get<string[]>('research-vision.json');
+  }
 }

@@ -1,28 +1,25 @@
 {
   "about": [
     "I am an Assistant Professor of Computer Science working on explainable machine learning and trustworthy AI, with a focus on the interplay among explainability, robustness, and security. My research tackles two core challenges in modern AI: the black-box nature of deep learning models and the prevalence of hallucinations and adversarial vulnerabilities in machine learning systems.",
-    "My group builds models that are both understandable to humans and resilient to adversarial attacks, with applications spanning medical image analysis, materials discovery, and precision agriculture. My work has appeared at venues including ICML, NeurIPS, TPAMI, ICDM, AAAI, and the ACM Web Conference, earning a Best Paper Award at ISPR 2025 and a NeurIPS 2025 Spotlight."
+    "My group builds models that are both understandable to humans and resilient to adversarial attacks, with applications spanning medical image analysis, materials discovery, and precision agriculture. My work has been published at venues including ICML, NeurIPS, TPAMI, ICDM, AAAI, and the ACM Web Conference."
     ],
   "education": [
     { "degree": "Ph.D. in Computer Science", "institution": "Auburn University", "year": "2022" }
   ],
   "researchAreas": [
     { "title": "Explainable AI" },
-    { "title": "Robust ML" },
-    { "title": "Trustworthy ML" }
+    { "title": "Adversarial Robustness" },
+    { "title": "Trustworthy AI" }
   ],
   "awards": [
+    { "year": "2026", "description": "Paper Accepted at ICML 2026" },
+    { "year": "2026", "description": "Paper Accepted at TPAMI" },
     { "year": "2025", "description": "Best Research Faculty Award, USD Computer Science Department" },
-    { "year": "2024", "description": "Best Paper Award, IEEE International Conference on Communications (ICC)" },
-    { "year": "2023", "description": "College of Engineering Early Career Teaching Award" },
-    { "year": "2022", "description": "Google Research Scholar Award" },
-    { "year": "2021", "description": "IEEE ComSoc Outstanding Young Researcher Award" },
-    { "year": "2020", "description": "Graduate Research Excellence Fellowship" },
-    { "year": "2019", "description": "Best Student Paper Award, IEEE GLOBECOM" }
+    { "year": "2025", "description": "Best Paper Award, ISPR 2025" },
+    { "year": "2025", "description": "NeurIPS 2025 Spotlight" }
+
   ],
   "openings": [
-    "I am actively recruiting motivated Ph.D. students with a strong background in Deep learning, Trustworthy AI, or related fields.",
-    "Prospective students should email me their CV, transcripts, and a short statement of research interests. Please include \"Prospective Student\" in the subject line.",
-    "M.S. students interested in research are also welcome to reach out."
-  ]
+    "I am actively recruiting motivated Ph.D. students with a strong background in Deep learning, Trustworthy AI, or related fields. Interested candidates must be efficient in Programming and have a solid understanding of Machine Learning and Deep Learning concepts.",
+    "Prospective students should email me their CV, transcripts, and a short statement of research interests. Please include \"Prospective Student\" in the subject line."  ]
 }

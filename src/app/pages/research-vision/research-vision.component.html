@@ -1,0 +1,10 @@
+@if (paragraphs$ | async; as paragraphs) {
+  <div class="page">
+    <h1 class="page__title">Research Vision</h1>
+    <div class="vision">
+      @for (para of paragraphs; track $index) {
+        <p class="vision__para">{{ para }}</p>
+      }
+    </div>
+  </div>
+}

@@ -12,6 +12,14 @@ export const routes: Routes = [
     loadComponent: () => import('./pages/group/group.component').then((m) => m.GroupComponent),
   },
   {
+    path: 'research-vision',
+    title: 'Research Vision — Dr. Longwei Wang',
+    loadComponent: () =>
+      import('./pages/research-vision/research-vision.component').then(
+        (m) => m.ResearchVisionComponent,
+      ),
+  },
+  {
     path: 'projects',
     title: 'Projects — Dr. Longwei Wang',
     loadComponent: () =>

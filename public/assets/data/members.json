@@ -3,34 +3,39 @@
     "name": "Ifrat Ikhtear Uddin",
     "role": "Ph.D. Student, Computer Science",
     "status": "current",
-    "startDate": "January 2025",
+    "startDate": "Spring 2025",
     "photo": "assets/img/Student Headshots-526.jpg",
-    "bio": "Working on Explainable AI",
+    "bio": "Explainable AI, Adversarial Robustness,and Trustworthy AI",
     "emailEncoded": "aWZyYXRpa2h0ZWFyLnVkZGluQGNveW90ZXMudXNkLmVkdQ==",
     "website": "https://ifratmitul.github.io/ifrat/"
   },
+
   {
-    "name": "Example 1",
-    "role": "Ph.D. Student, Computer Engineering",
+    "name": "Casey Wall",
+    "role": "Co-Supervised Ph.D. Student, Computer Science",
     "status": "current",
-    "startDate": "January 2026",
-    "photo": "assets/img/avatar.svg",
-    "bio": "Researching joint communication and sensing waveforms.",
-    "emailEncoded": "and1QGV4YW1wbGUuZWR1"
+    "startDate": "Fall 2024",
+    "photo": "assets/img/casey.jpeg",
+    "bio": "Explainable AI",
+    "emailEncoded": "Y2FzZXkud2FsbEBjb3lvdGVzLnVzZC5lZHU="
+  },
+
+  {
+    "name": "Nicholas Rasmussen",
+    "role": "Ph.D. Student, Computer Science",
+    "status": "current",
+    "startDate": "Fall 2024",
+    "photo": "assets/img/nich.jpeg",
+    "bio": "Signal Processing, Machine Learning",
+    "emailEncoded": "bmljaG9sYXMucmFzbXVzc2VuQGNveW90ZXMudXNkLmVkdQ=="
   },
   {
-    "name": "Example 2",
-    "role": "M.S. Student, Computer Science",
+    "name": "Moinak Bose",
+    "role": "Ph.D. Student, Computer Science",
     "status": "current",
-    "startDate": "January 2026",
-    "photo": "assets/img/avatar.svg",
-    "bio": "Building testbeds for reconfigurable intelligent surfaces.",
-    "emailEncoded": "YWNhbHZldEBleGFtcGxlLmVkdQ=="
-  },
-  {
-    "name": "Example 1",
-    "role": "Graduate Researcher",
-    "status": "former",
-    "bio": "Developed a Raspberry Pi beam adaptation system."
+    "startDate": "Fall 2025",
+    "photo": "assets/img/student-2.jpeg",
+    "bio": "Medical Imaging and Analysis",
+    "emailEncoded": "bW9pbmFrLmJvc2VAY295b3Rlcy51c2QuZWR1"
   }
 ]
