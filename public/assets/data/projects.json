@@ -1,6 +1,6 @@
 [
   {
-    "title": "Explainable Category Discovery",
+    "title": "Explainable Novel Category Discovery",
     "summary": "Developing a framework for explainable category discovery in deep learning models, enabling the identification of novel categories and providing interpretable explanations for model predictions.",
     "thumbnail": "assets/img/project-cover.svg",
     "tags": ["Deep learning", "Machine Learning", "Explainable AI"],
