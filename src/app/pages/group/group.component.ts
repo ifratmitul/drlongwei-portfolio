@@ -17,6 +17,11 @@ export class GroupComponent {
   private readonly content = inject(ContentService);
   private readonly members = toSignal(this.content.getMembers(), { initialValue: [] as Member[] });
 
-  readonly current = computed(() => this.members().filter((m) => m.status === 'current'));
-  readonly former = computed(() => this.members().filter((m) => m.status === 'former'));
+  readonly phd = computed(() =>
+    this.members().filter((m) => m.isPhd && !m.isFormer),
+  );
+  readonly masters = computed(() =>
+    this.members().filter((m) => m.isMs && !m.isFormer),
+  );
+  readonly former = computed(() => this.members().filter((m) => m.isFormer));
 }

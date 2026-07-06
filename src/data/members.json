@@ -2,7 +2,7 @@
   {
     "name": "Ifrat Ikhtear Uddin",
     "role": "Ph.D. Student, Computer Science",
-    "status": "current",
+    "isPhd": true,
     "startDate": "Spring 2025",
     "photo": "assets/img/Student Headshots-526.jpg",
     "bio": "Explainable AI, Adversarial Robustness,and Trustworthy AI",
@@ -13,7 +13,7 @@
   {
     "name": "Casey Wall",
     "role": "Co-Supervised Ph.D. Student, Computer Science",
-    "status": "current",
+    "isPhd": true,
     "startDate": "Fall 2024",
     "photo": "assets/img/casey.jpeg",
     "bio": "Explainable AI",
@@ -23,7 +23,7 @@
   {
     "name": "Nicholas Rasmussen",
     "role": "Ph.D. Student, Computer Science",
-    "status": "current",
+    "isPhd": true,
     "startDate": "Fall 2024",
     "photo": "assets/img/nich.jpeg",
     "bio": "Signal Processing, Machine Learning",
@@ -32,10 +32,28 @@
   {
     "name": "Moinak Bose",
     "role": "Ph.D. Student, Computer Science",
-    "status": "current",
+    "isPhd": true,
     "startDate": "Fall 2025",
     "photo": "assets/img/student-2.jpeg",
     "bio": "Medical Imaging and Analysis",
     "emailEncoded": "bW9pbmFrLmJvc2VAY295b3Rlcy51c2QuZWR1"
+  },
+  {
+    "name": "John Kangethe",
+    "role": "M.S. Student, Computer Science",
+    "isMs": true,
+    "photo": "assets/img/avatar.svg"
+  },
+  {
+    "name": "Rajia Rani",
+    "role": "M.S. Student, Artificial Intelligence",
+    "isMs": true,
+    "photo": "assets/img/avatar.svg"
+  },
+   {
+    "name": "Anupam Wagle",
+    "role": "M.S. Student, Computer Science",
+    "isMs": true,
+    "photo": "assets/img/avatar.svg"
   }
 ]

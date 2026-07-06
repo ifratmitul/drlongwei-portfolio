@@ -50,12 +50,13 @@ export interface HomeContent {
   openings: string[];
 }
 
-export type MemberStatus = 'current' | 'former';
-
 export interface Member {
   name: string;
   role: string;
-  status: MemberStatus;
+  /** Grouping flags. `isFormer` takes precedence over degree in display. */
+  isPhd?: boolean;
+  isMs?: boolean;
+  isFormer?: boolean;
   startDate?: string;
   photo?: string;
   bio?: string;

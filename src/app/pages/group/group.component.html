@@ -1,10 +1,19 @@
 <div class="page">
   <h1 class="page__title">Group</h1>
 
-  @if (current().length) {
-    <h2 class="group__subtitle">Current Members</h2>
+  @if (phd().length) {
+    <h2 class="group__subtitle">Ph.D. Students</h2>
     <div class="group__grid">
-      @for (member of current(); track member.name) {
+      @for (member of phd(); track member.name) {
+        <app-member-card [member]="member" />
+      }
+    </div>
+  }
+
+  @if (masters().length) {
+    <h2 class="group__subtitle">Master's Students</h2>
+    <div class="group__grid">
+      @for (member of masters(); track member.name) {
         <app-member-card [member]="member" />
       }
     </div>

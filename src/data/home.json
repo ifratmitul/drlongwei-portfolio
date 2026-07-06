@@ -1,19 +1,19 @@
 {
   "about": [
     "I am an Assistant Professor of Computer Science working on explainable machine learning and trustworthy AI, with a focus on the interplay among explainability, robustness, and security. My research tackles two core challenges in modern AI: the black-box nature of deep learning models and the prevalence of hallucinations and adversarial vulnerabilities in machine learning systems.",
-    "My group builds models that are both understandable to humans and resilient to adversarial attacks, with applications spanning medical image analysis, materials discovery, and precision agriculture. My work has been published at venues including ICML, NeurIPS, TPAMI, ICDM, AAAI, and the ACM Web Conference."
+    "My group builds models that are both understandable to humans and resilient to adversarial attacks, with applications spanning medical image analysis, materials discovery, and precision agriculture. My work has been published at venues including ICML, NeurIPS, TPAMI, ICDM, AAAI, JBHI etc."
     ],
   "education": [
     { "degree": "Ph.D. in Computer Science", "institution": "Auburn University", "year": "2022" }
   ],
   "researchAreas": [
     { "title": "Explainable AI" },
-    { "title": "Adversarial Robustness" },
-    { "title": "Trustworthy AI" }
+    { "title": "Trustworthy AI: Safety, Robustness and Fairness" }
   ],
   "awards": [
     { "year": "2026", "description": "Paper Accepted at ICML 2026" },
     { "year": "2026", "description": "Paper Accepted at TPAMI" },
+    { "year": "2026", "description": "Paper Accepted at IEEE JBHI" },
     { "year": "2025", "description": "Best Research Faculty Award, USD Computer Science Department" },
     { "year": "2025", "description": "Best Paper Award, ISPR 2025" },
     { "year": "2025", "description": "NeurIPS 2025 Spotlight" }
@@ -21,5 +21,5 @@
   ],
   "openings": [
     "I am actively recruiting motivated Ph.D. students with a strong background in Deep learning, Trustworthy AI, or related fields. Interested candidates must be efficient in Programming and have a solid understanding of Machine Learning and Deep Learning concepts.",
-    "Prospective students should email me their CV, transcripts, and a short statement of research interests. Please include \"Prospective Student\" in the subject line."  ]
+    "Prospective students should email me their CV, and a short statement of research interests. Please include \"Prospective Student\" in the subject line."  ]
 }

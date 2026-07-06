@@ -28,13 +28,13 @@
             }
           </div>
 
-          @if (profile.social.length) {
+          <!-- @if (profile.social.length) {
             <ul class="intro__social">
               @for (link of profile.social; track link.label) {
                 <li><a [href]="link.url" target="_blank" rel="noopener">{{ link.label }}</a></li>
               }
             </ul>
-          }
+          } -->
         </div>
       </header>
     }
@@ -46,11 +46,11 @@
     </app-section>
 
     <app-section heading="Research Interests" anchor="research">
-      <div class="research">
+      <ul class="research">
         @for (area of home.researchAreas; track area.title) {
-          <span class="research__tag">{{ area.title }}</span>
+          <li>{{ area.title }}</li>
         }
-      </div>
+      </ul>
     </app-section>
 
     <!-- <app-section heading="Education" anchor="education">
@@ -65,14 +65,7 @@
       </ul>
     </app-section> -->
 
-
-    <app-section heading="Openings" anchor="openings">
-      @for (para of home.openings; track $index) {
-        <p class="opening">{{ para }}</p>
-      }
-    </app-section>
-
-    <app-section heading="Spotlight, Awards & Honors" anchor="awards">
+    <app-section heading="News & Spotlight" anchor="awards">
       <ul class="awards">
         @for (award of home.awards; track $index) {
           <li>
@@ -82,5 +75,14 @@
         }
       </ul>
     </app-section>
+
+
+    <app-section heading="Openings" anchor="openings">
+      @for (para of home.openings; track $index) {
+        <p class="opening">{{ para }}</p>
+      }
+    </app-section>
+
+    
   </div>
 }

@@ -3,9 +3,8 @@
     "title": "Explainable Novel Category Discovery",
     "summary": "Developing a framework for explainable category discovery in deep learning models, enabling the identification of novel categories and providing interpretable explanations for model predictions.",
     "thumbnail": "assets/img/project-cover.svg",
-    "tags": ["Deep learning", "Machine Learning", "Explainable AI"],
-    "funding": "Supported by Competitive Research Grant program hosted by the South Dakota Board of Regents"
-  },
+    "tags": ["Deep learning", "Machine Learning", "Explainable AI"] 
+   },
   {
     "title": "Interpretable and Efficient Transformer Architectures for Fine-Grained Within-Season Crop Mapping in South Dakota",
     "summary": "Developing interpretable and efficient transformer architectures for fine-grained within-season crop mapping in South Dakota, leveraging remote sensing data to improve agricultural monitoring and decision-making.",
