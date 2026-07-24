@@ -11,13 +11,34 @@
     { "title": "Trustworthy AI: Safety, Robustness and Fairness" }
   ],
   "awards": [
-    { "year": "2026", "description": "Paper Accepted at ICML 2026" },
-    { "year": "2026", "description": "Paper Accepted at TPAMI" },
-    { "year": "2026", "description": "Paper Accepted at IEEE JBHI" },
-    { "year": "2025", "description": "Best Research Faculty Award, USD Computer Science Department" },
-    { "year": "2025", "description": "Best Paper Award, ISPR 2025" },
-    { "year": "2025", "description": "NeurIPS 2025 Spotlight" }
-
+    {
+      "year": "2026",
+      "description": "Structured Multi-step Jailbreaking under a Hamiltonian Generative Formulation accepted to <strong>ICML 2026</strong>."
+    },
+    {
+      "year": "2026",
+      "description": "Winsor-CAM accepted to <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</strong>."
+    },
+    {
+      "year": "2026",
+      "description": "Received the South Dakota Board of Regents Competitive Research Grant Award in support of our research on trustworthy AI for precision agriculture."
+    },
+    {
+      "year": "2026",
+      "description": "Expert-Guided Explainable Few-Shot Learning with Active Sample Selection for Medical Image Analysis accepted to the <strong>IEEE Journal of Biomedical and Health Informatics (JBHI)</strong>."
+    },
+    {
+      "year": "2025",
+      "description": "Received the Research Faculty Award, Department of Computer Science, University of South Dakota."
+    },
+    {
+      "year": "2025",
+      "description": "Promoting Shape Bias in CNNs: Frequency-Based and Contrastive Regularization for Corruption Robustness received the Best Paper Award at <strong>ISPR 2025</strong>."
+    },
+    {
+      "year": "2025",
+      "description": "Bridging Symmetry and Robustness: On the Role of Equivariance in Enhancing Adversarial Robustness selected for a <strong>NeurIPS 2025</strong> Spotlight."
+    }
   ],
   "openings": [
     "I am actively recruiting motivated Ph.D. students with a strong background in Deep learning, Trustworthy AI, or related fields. Interested candidates must be efficient in Programming and have a solid understanding of Machine Learning and Deep Learning concepts.",

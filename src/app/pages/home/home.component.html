@@ -70,7 +70,7 @@
         @for (award of home.awards; track $index) {
           <li>
             <span class="awards__year">{{ award.year }}</span>
-            <span class="awards__desc">{{ award.description }}</span>
+            <span class="awards__desc" [innerHTML]="award.description"></span>
           </li>
         }
       </ul>
